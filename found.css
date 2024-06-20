@@ -127,7 +127,13 @@ h1,h2,h3,h4,h5,h6 {
     text-align: center;
     color: #fff;
     padding: 33px 0;
+}
+
+@media screen and (max-width: 360px;) {
+#calculator .person { 
     margin-top: 150px;
+    
+}
 }
 
 #calculator .person>img {
